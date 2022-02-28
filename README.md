@@ -17,7 +17,7 @@ When I'm not coding, you will find me playing with my son, snowboarding/skateboa
 Feel free to take a peak at my work and reach out!
 
 [![LinkedIn: seth-perna][linkedin-badge]][LinkedIn]
-[![Email: scottborecki@gmail.com][gmail-badge]][gmail]
+[![Email: gseth26@gmail.com][gmail-badge]][gmail]
 [![GitHub: Scott-Borecki][github-follow-badge]][GitHub]
 
 ## Technical Skills
