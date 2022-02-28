@@ -1,4 +1,3 @@
-![Blue Illustrated Technology General LinkedIn Banner (2)]()
 
 [![About][about-badge]](#about)
 [![Technical Skills][technical-skills-badge]](#technical-skills)
@@ -7,17 +6,17 @@
 
 ## About
 
-Hi, I'm Scott! 👋
+Hi, I'm Seth! 👋
 
-I am a back-end software engineer with a passion for engineering and problem-solving. I have over 10 years of project management and engineering consulting experience as a licensed professional geotechnical engineer. I also do [freelance audio engineering][oven-fresh-sounds] in my free time.  I started my software engineering journey after attending [Turing School of Software & Design][turing]'s Back-End Engineering program in 2021.
+I am a back-end software engineer with a passion for engineering and creation. I have over 10 years of business ownership and construction experience as a licensed professional metal fabricator.  I started my journey into software while attending [Turing School of Software & Design][turing]'s Back-End Engineering program in 2021.
 
-As a software engineer, geotechnical engineer, and audio engineer, I think it's safe to say I love engineering! I love deep diving into how things work, building things, and making things better. My love for engineering manifests itself in many ways, from simply reading the instructions before assembling a piece of Ikea furniture to researching, designing, and custom building an acoustically-treated music production studio in my home.
+As a software engineer and fabricator I developed a deep love with building, creating and watching your work come to life. I enjoy the process of fine tuning and tweaking until something is perfect. Alas it never is, which translates to my drive never stops.
 
-When I'm not engineering, you can find me playing pinball in casual and competitive league settings, or hanging out with my partner and two cats.
+When I'm not coding, you will find me playing with my son, snowboarding/skateboarding or hiking.
 
-Take a look at my work or get in touch!
+Feel free to take a peak at my work and reach out!
 
-[![LinkedIn: scott-borecki][linkedin-badge]][LinkedIn]
+[![LinkedIn: seth-perna][linkedin-badge]][LinkedIn]
 [![Email: scottborecki@gmail.com][gmail-badge]][gmail]
 [![GitHub: Scott-Borecki][github-follow-badge]][GitHub]
 
