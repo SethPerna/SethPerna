@@ -87,7 +87,7 @@ Email: gseth26@gmail.com
 [atom-badge]: https://img.shields.io/badge/Atom-345d3c.svg?&style=for-the-badge&logo=atom&logoColor=white
 [git-badge]: https://img.shields.io/badge/git-345d3c.svg?&style=for-the-badge&logo=git&logoColor=white
 [github-badge]: https://img.shields.io/badge/GitHub-345d3c.svg?&style=for-the-badge&logo=github&logoColor=white
-[heroku-badge]: https://img.shields.io/badge/Heroku-345d3c.svg?&style=for-the-badge&logo=heroku&logoColor=white
+[heroku-badge]: https://img.shields.io/badge/Heroku-345d3c.svg?&style=for-the-badge&logo=heroku&logoColor=orange
 [hound-badge]: https://img.shields.io/badge/hound-345d3c.svg?&style=for-the-badge&logo=hound&logoColor=white
 [postgresql-badge]: https://img.shields.io/badge/PostgreSQL-345d3c.svg?&style=for-the-badge&logo=postgresql&logoColor=white
 [postico-badge]: https://img.shields.io/badge/postico-345d3c.svg?&style=for-the-badge&logo=Postico&logoColor=white
