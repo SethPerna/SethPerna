@@ -8,7 +8,7 @@
 
 Hi, I'm Seth!
 
-I am a back-end software engineer with a passion for engineering and creation. I have over 10 years of business ownership and construction experience as a licensed professional metal fabricator.  I started my journey into software while attending [Turing School of Software & Design][turing]'s Back-End Engineering program in 2021.
+I am a back-end software engineer with a passion for engineering and creation. I have over 10 years of business ownership and construction experience as a licensed professional metal fabricator.  I started my journey into software while attending Turing School of Software & Design's Back-End Engineering program in 2021.
 
 As a software engineer and fabricator I developed a deep love with building, creating and watching your work come to life. I enjoy the process of fine tuning and tweaking until something is perfect. Alas it never is, which translates to my drive never stops.
 
