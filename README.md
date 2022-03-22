@@ -73,9 +73,9 @@ Email: gseth26@gmail.com
 
 [github-follow-badge]: https://img.shields.io/github/followers/SethPerna?label=SethPerna&style=social
 [gmail-badge]: https://img.shields.io/badge/gmail-gseth26@gmail.com-green?style=flat&logo=gmail&logoColor=white&color=white&labelColor=EA4335
-[linkedin-badge]: https://img.shields.io/badge/LinkedIn-Scott--Borecki-white?style=flat&logo=Linkedin&logoColor=white&color=white&labelColor=0A66C2
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-Seth--Perna-white?style=flat&logo=Linkedin&logoColor=white&color=white&labelColor=0A66C2
 
-[rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
+[rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails-f06611.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
 
 [ruby-badge]: https://img.shields.io/badge/ruby-345d3c.svg?&style=for-the-badge&logo=ruby&logoColor=white
 [sql-badge]: https://img.shields.io/badge/SQL-345d3c.svg?style=for-the-badge&logo=SQL&logoColor=white
