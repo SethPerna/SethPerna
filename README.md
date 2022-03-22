@@ -29,7 +29,7 @@ Email: gseth26@gmail.com
 ![HTML][html-badge]
 ![CSS][css-badge]
 ![JavaScript][js-badge]
-
+![GraphQL][graphql-badge]
 ### 🛠 &nbsp; Tools
 
 ![Atom][atom-badge]
