@@ -14,7 +14,7 @@ As a software engineer and fabricator I developed a deep love with building, cre
 
 When I'm not coding, you will find me playing with my son, snowboarding/skateboarding or hiking.
 
-Feel free to take a peak at my work and reach out!
+Feel free to take a peek at my work and reach out!
 
 LinkedIn: https://www.linkedin.com/in/seth-perna-82613b223/
 Email: gseth26@gmail.com
