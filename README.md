@@ -79,6 +79,7 @@ Email: gseth26@gmail.com
 
 [ruby-badge]: https://img.shields.io/badge/ruby-345d3c.svg?&style=for-the-badge&logo=ruby&logoColor=white
 [sql-badge]: https://img.shields.io/badge/SQL-345d3c.svg?style=for-the-badge&logo=SQL&logoColor=white
+[graphql-badge]: https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
 [html-badge]: https://img.shields.io/badge/html5-345d3c.svg?&style=for-the-badge&logo=html5&logoColor=white
 [css-badge]: https://img.shields.io/badge/css3-345d3c.svg?&style=for-the-badge&logo=css3&logoColor=white
 [js-badge]: https://img.shields.io/badge/JavaScript-345d3c.svg?&style=for-the-badge&logo=javascript&logoColor=white
